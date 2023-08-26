@@ -1,0 +1,2306 @@
+[
+    {
+        "Product_ID": 1,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-3000,Type:288-pin DIMM,CAS:15Module:8x8GBSize:64GB",
+        "Standard_Cost": 450,
+        "List_Price": 640,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 2,
+        "Product_Name": "Intel Xeon E5-2697 V4",
+        "Description": "Speed:2.3GHz,Cores:18,TDP:145W",
+        "Standard_Cost": 2144,
+        "List_Price": 2554,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 3,
+        "Product_Name": "Corsair CB-9060011-WW",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.57GHz",
+        "Standard_Cost": 573,
+        "List_Price": 799,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 4,
+        "Product_Name": "AMD 100-505989",
+        "Description": "Chipset:FirePro W9100,Memory:32GBCore Clock:930MHz",
+        "Standard_Cost": 2128,
+        "List_Price": 2699,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 5,
+        "Product_Name": "PNY VCQK6000-PB",
+        "Description": "Chipset:Quadro K6000,Memory:12GBCore Clock:902MHz",
+        "Standard_Cost": 1740,
+        "List_Price": 2290,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 6,
+        "Product_Name": "Zotac ZT-P10810A-10P",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.48GHz",
+        "Standard_Cost": 702,
+        "List_Price": 849,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 7,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:15Module:8x8GBSize:64GB",
+        "Standard_Cost": 602,
+        "List_Price": 680,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 8,
+        "Product_Name": "Intel Xeon E5-1650 V4",
+        "Description": "Speed:3.6GHz,Cores:6,TDP:140W",
+        "Standard_Cost": 535,
+        "List_Price": 601,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 9,
+        "Product_Name": "Intel Xeon E5-2640 V4",
+        "Description": "Speed:2.4GHz,Cores:10,TDP:90W",
+        "Standard_Cost": 738,
+        "List_Price": 899,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 10,
+        "Product_Name": "Crucial",
+        "Description": "Speed:DDR4-2133,Type:288-pin DIMM,CAS:15Module:2x16GBSize:32GB",
+        "Standard_Cost": 580,
+        "List_Price": 811,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 11,
+        "Product_Name": "PNY VCQP5000-PB",
+        "Description": "Chipset:Quadro P5000,Memory:16GBCore Clock:1.61GHz",
+        "Standard_Cost": 1602,
+        "List_Price": 2015,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 12,
+        "Product_Name": "Gigabyte GV-N108TAORUSX W-11GD",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.63GHz",
+        "Standard_Cost": 596,
+        "List_Price": 824,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 13,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-3333,Type:288-pin DIMM,CAS:16Module:4x16GBSize:64GB",
+        "Standard_Cost": 618,
+        "List_Price": 704,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 14,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-3333,Type:288-pin DIMM,CAS:16Module:4x16GBSize:64GB",
+        "Standard_Cost": 633,
+        "List_Price": 704,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 15,
+        "Product_Name": "G.Skill Trident Z",
+        "Description": "Speed:DDR4-3466,Type:288-pin DIMM,CAS:16Module:4x16GBSize:64GB",
+        "Standard_Cost": 601,
+        "List_Price": 725,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 16,
+        "Product_Name": "Intel Core i7-6900K",
+        "Description": "Speed:3.2GHz,Cores:8,TDP:140W",
+        "Standard_Cost": 792,
+        "List_Price": 889,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 17,
+        "Product_Name": "Corsair Vengeance LPX",
+        "Description": "Speed:DDR4-3333,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+        "Standard_Cost": 595,
+        "List_Price": 699,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 18,
+        "Product_Name": "Crucial",
+        "Description": "Speed:DDR4-2400,Type:288-pin DIMM,CAS:17Module:1x64GBSize:64GB",
+        "Standard_Cost": 604,
+        "List_Price": 799,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 19,
+        "Product_Name": "Intel Core i7-6950X (OEM\/Tray)",
+        "Description": "Speed:3.0GHz,Cores:10,TDP:140W",
+        "Standard_Cost": 1479,
+        "List_Price": 1704,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 20,
+        "Product_Name": "Corsair Dominator Platinum",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+        "Standard_Cost": 616,
+        "List_Price": 719,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 21,
+        "Product_Name": "Corsair Dominator Platinum",
+        "Description": "Speed:DDR4-3466,Type:288-pin DIMM,CAS:16Module:4x16GBSize:64GB",
+        "Standard_Cost": 609,
+        "List_Price": 749,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 22,
+        "Product_Name": "Seagate ST3000DM008",
+        "Description": "Series:Barracuda,Type:7200RPM,Capacity:3TB,Cache:64MB",
+        "Standard_Cost": 61,
+        "List_Price": 83,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 23,
+        "Product_Name": "Western Digital WDS250G1B0A",
+        "Description": "Series:Blue,Type:SSD,Capacity:250GB,Cache:N\/A",
+        "Standard_Cost": 72,
+        "List_Price": 89,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 24,
+        "Product_Name": "Seagate ST2000DM006",
+        "Description": "Series:Barracuda,Type:7200RPM,Capacity:2TB,Cache:64MB",
+        "Standard_Cost": 47,
+        "List_Price": 66,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 25,
+        "Product_Name": "Samsung MZ-75E250B\/AM",
+        "Description": "Series:850 EVO-Series,Type:SSD,Capacity:250GB,Cache:N\/A",
+        "Standard_Cost": 87,
+        "List_Price": 104,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 26,
+        "Product_Name": "Samsung MZ-75E500B\/AM",
+        "Description": "Series:850 EVO-Series,Type:SSD,Capacity:500GB,Cache:N\/A",
+        "Standard_Cost": 157,
+        "List_Price": 178,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 27,
+        "Product_Name": "Intel Core i7-3960X Extreme Edition",
+        "Description": "Speed:3.3GHz,Cores:6,TDP:130W",
+        "Standard_Cost": 573,
+        "List_Price": 800,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 28,
+        "Product_Name": "Supermicro X9SRH-7TF",
+        "Description": "CPU:LGA2011,Form Factor:ATX,RAM Slots:8,Max RAM:64GB",
+        "Standard_Cost": 411,
+        "List_Price": 479,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 29,
+        "Product_Name": "Corsair Vengeance LPX",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+        "Standard_Cost": 571,
+        "List_Price": 645,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 30,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-2800,Type:288-pin DIMM,CAS:14Module:4x16GBSize:64GB",
+        "Standard_Cost": 452,
+        "List_Price": 645,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 31,
+        "Product_Name": "Supermicro MBD-X10DAX",
+        "Description": "CPU:LGA2011-3 x 2,Form Factor:EATX,RAM Slots:16,Max RAM:",
+        "Standard_Cost": 385,
+        "List_Price": 443,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 32,
+        "Product_Name": "ASRock X99 Extreme11",
+        "Description": "CPU:LGA2011-3,Form Factor:EATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 380,
+        "List_Price": 469,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 33,
+        "Product_Name": "ADATA ASU800SS-128GT-C",
+        "Description": "Series:Ultimate SU800,Type:SSD,Capacity:128GB,Cache:N\/A",
+        "Standard_Cost": 37,
+        "List_Price": 52,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 34,
+        "Product_Name": "Asus KGPE-D16",
+        "Description": "CPU:G34 x 2,Form Factor:SSI EEB,RAM Slots:16,Max RAM:256GB",
+        "Standard_Cost": 360,
+        "List_Price": 417,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 35,
+        "Product_Name": "Corsair Dominator Platinum",
+        "Description": "Speed:DDR4-2800,Type:288-pin DIMM,CAS:15Module:8x16GBSize:128GB",
+        "Standard_Cost": 1131,
+        "List_Price": 1314,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 36,
+        "Product_Name": "Corsair Vengeance LPX",
+        "Description": "Speed:DDR4-3000,Type:288-pin DIMM,CAS:15Module:8x16GBSize:128GB",
+        "Standard_Cost": 912,
+        "List_Price": 1299,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 37,
+        "Product_Name": "Corsair Dominator Platinum",
+        "Description": "Speed:DDR4-2666,Type:288-pin DIMM,CAS:15Module:8x16GBSize:128GB",
+        "Standard_Cost": 1068,
+        "List_Price": 1264,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 38,
+        "Product_Name": "Corsair Vengeance LPX",
+        "Description": "Speed:DDR4-2400,Type:288-pin DIMM,CAS:15Module:8x16GBSize:128GB",
+        "Standard_Cost": 1019,
+        "List_Price": 1199,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 39,
+        "Product_Name": "ASRock EP2C602-4L\/D16",
+        "Description": "CPU:LGA2011 x 2,Form Factor:SSI EEB,RAM Slots:16,Max RAM:512GB",
+        "Standard_Cost": 225,
+        "List_Price": 301,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 40,
+        "Product_Name": "MSI Z170A KRAIT GAMING 3X",
+        "Description": "CPU:LGA1151,Form Factor:ATX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 245,
+        "List_Price": 299,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 41,
+        "Product_Name": "MSI Z170 Krait Gaming",
+        "Description": "CPU:LGA1151,Form Factor:ATX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 231,
+        "List_Price": 299,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 42,
+        "Product_Name": "MSI Z170A KRAIT GAMING",
+        "Description": "CPU:LGA1151,Form Factor:ATX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 262,
+        "List_Price": 299,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 43,
+        "Product_Name": "Asus MAXIMUS IX CODE",
+        "Description": "CPU:LGA1151,Form Factor:ATX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 266,
+        "List_Price": 298,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 44,
+        "Product_Name": "Seagate ST1000DM010",
+        "Description": "Series:BarraCuda,Type:7200RPM,Capacity:1TB,Cache:64MB",
+        "Standard_Cost": 42,
+        "List_Price": 49,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 45,
+        "Product_Name": "Intel Xeon E5-2685 V3 (OEM\/Tray)",
+        "Description": "Speed:2.6GHz,Cores:12,TDP:120W",
+        "Standard_Cost": 2012,
+        "List_Price": 2501,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 46,
+        "Product_Name": "Intel Xeon E5-2695 V3 (OEM\/Tray)",
+        "Description": "Speed:2.3GHz,Cores:14,TDP:120W",
+        "Standard_Cost": 1925,
+        "List_Price": 2431,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 47,
+        "Product_Name": "Intel Xeon E5-2697 V2",
+        "Description": "Speed:2.7GHz,Cores:12,TDP:130W",
+        "Standard_Cost": 2101,
+        "List_Price": 2377,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 48,
+        "Product_Name": "AMD FirePro S7000",
+        "Description": "Chipset:FirePro S7000,Memory:4GBCore Clock:950MHz",
+        "Standard_Cost": 936,
+        "List_Price": 1218,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 49,
+        "Product_Name": "Samsung MZ-75E4T0B",
+        "Description": "Series:850 EVO,Type:SSD,Capacity:4TB,Cache:4GB",
+        "Standard_Cost": 1153,
+        "List_Price": 1499,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 50,
+        "Product_Name": "Intel SSDPECME040T401",
+        "Description": "Series:DC P3608,Type:SSD,Capacity:4TB,Cache:N\/A",
+        "Standard_Cost": 7123,
+        "List_Price": 8867,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 51,
+        "Product_Name": "Intel Xeon E5-2695 V4",
+        "Description": "Speed:2.1GHz,Cores:18,TDP:120W",
+        "Standard_Cost": 1780,
+        "List_Price": 2269,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 52,
+        "Product_Name": "Intel Xeon E5-2670 V3",
+        "Description": "Speed:2.3GHz,Cores:12,TDP:120W",
+        "Standard_Cost": 1453,
+        "List_Price": 1676,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 53,
+        "Product_Name": "Intel Core 2 Extreme QX6800",
+        "Description": "Speed:2.93GHz,Cores:4,TDP:100W",
+        "Standard_Cost": 787,
+        "List_Price": 1003,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 54,
+        "Product_Name": "Intel Xeon E5-1660 V3 (OEM\/Tray)",
+        "Description": "Speed:3.0GHz,Cores:8,TDP:140W",
+        "Standard_Cost": 914,
+        "List_Price": 1019,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 55,
+        "Product_Name": "Crucial CT525MX300SSD4",
+        "Description": "Series:MX300,Type:SSD,Capacity:525GB,Cache:N\/A",
+        "Standard_Cost": 121,
+        "List_Price": 150,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 56,
+        "Product_Name": "Western Digital WD2500AAJS",
+        "Description": "Series:Caviar Blue,Type:7200RPM,Capacity:250GB,Cache:8MB",
+        "Standard_Cost": 15,
+        "List_Price": 16,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 57,
+        "Product_Name": "Western Digital WD20EZRZ",
+        "Description": "Series:Blue,Type:5400RPM,Capacity:2TB,Cache:64MB",
+        "Standard_Cost": 58,
+        "List_Price": 67,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 58,
+        "Product_Name": "Gigabyte GV-N108TAORUS X-11GD",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.61GHz",
+        "Standard_Cost": 688,
+        "List_Price": 784,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 59,
+        "Product_Name": "Intel Core i7-5960X (OEM\/Tray)",
+        "Description": "Speed:3.0GHz,Cores:8,TDP:140W",
+        "Standard_Cost": 879,
+        "List_Price": 977,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 60,
+        "Product_Name": "Hitachi HUA723020ALA640",
+        "Description": "Series:Ultrastar 7K3000,Type:7200RPM,Capacity:2TB,Cache:64MB",
+        "Standard_Cost": 45,
+        "List_Price": 59,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 61,
+        "Product_Name": "Asus PRIME X299-DELUXE",
+        "Description": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 409,
+        "List_Price": 487,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 62,
+        "Product_Name": "Intel DP35DPM",
+        "Description": "CPU:LGA775,Form Factor:ATX,RAM Slots:4,Max RAM:8GB",
+        "Standard_Cost": 626,
+        "List_Price": 789,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 63,
+        "Product_Name": "Asus RAMPAGE V EXTREME",
+        "Description": "CPU:LGA2011-3,Form Factor:EATX,RAM Slots:8,Max RAM:64GB",
+        "Standard_Cost": 459,
+        "List_Price": 572,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 64,
+        "Product_Name": "Supermicro H8DG6-F",
+        "Description": "CPU:G34 x 2,Form Factor:EATX,RAM Slots:16,Max RAM:512GB",
+        "Standard_Cost": 416,
+        "List_Price": 525,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 65,
+        "Product_Name": "Corsair Dominator Platinum",
+        "Description": "Speed:DDR4-2400,Type:288-pin DIMM,CAS:15Module:8x16GBSize:128GB",
+        "Standard_Cost": 1002,
+        "List_Price": 1199,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 66,
+        "Product_Name": "Gigabyte X299 AORUS Gaming 7",
+        "Description": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 283,
+        "List_Price": 399,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 67,
+        "Product_Name": "Kingston HyperX Beast",
+        "Description": "Speed:DDR3-1866,Type:240-pin DIMM,CAS:10Module:8x8GBSize:64GB",
+        "Standard_Cost": 708,
+        "List_Price": 863,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 68,
+        "Product_Name": "Crucial",
+        "Description": "Speed:DDR4-2133,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+        "Standard_Cost": 590,
+        "List_Price": 766,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 69,
+        "Product_Name": "Intel Core i7-7820X",
+        "Description": "Speed:3.6GHz,Cores:8,TDP:140W",
+        "Standard_Cost": 511,
+        "List_Price": 678,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 70,
+        "Product_Name": "Intel Xeon E5-2687W",
+        "Description": "Speed:3.1GHz,Cores:8,TDP:150W",
+        "Standard_Cost": 581,
+        "List_Price": 710,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 71,
+        "Product_Name": "Intel Core i7-3930K",
+        "Description": "Speed:3.2GHz,Cores:6,TDP:130W",
+        "Standard_Cost": 509,
+        "List_Price": 660,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 72,
+        "Product_Name": "Intel Xeon E5-2630 V3 (OEM\/Tray)",
+        "Description": "Speed:2.4GHz,Cores:8,TDP:85W",
+        "Standard_Cost": 421,
+        "List_Price": 589,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 73,
+        "Product_Name": "Intel Core i7-4770K",
+        "Description": "Speed:3.5GHz,Cores:4,TDP:84W",
+        "Standard_Cost": 714,
+        "List_Price": 799,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 74,
+        "Product_Name": "Intel Xeon E5-2680 V2",
+        "Description": "Speed:2.8GHz,Cores:10,TDP:115W",
+        "Standard_Cost": 567,
+        "List_Price": 701,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 75,
+        "Product_Name": "Intel Core i7-4930K",
+        "Description": "Speed:3.4GHz,Cores:6,TDP:130W",
+        "Standard_Cost": 527,
+        "List_Price": 624,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 76,
+        "Product_Name": "Intel Xeon E5-2630 V3",
+        "Description": "Speed:2.4GHz,Cores:8,TDP:85W",
+        "Standard_Cost": 499,
+        "List_Price": 629,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 77,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:14Module:4x16GBSize:64GB",
+        "Standard_Cost": 577,
+        "List_Price": 695,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 78,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+        "Standard_Cost": 517,
+        "List_Price": 686,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 79,
+        "Product_Name": "Corsair Dominator Platinum",
+        "Description": "Speed:DDR4-2666,Type:288-pin DIMM,CAS:15Module:8x8GBSize:64GB",
+        "Standard_Cost": 537,
+        "List_Price": 659,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 80,
+        "Product_Name": "Intel Xeon E5-1650 V3",
+        "Description": "Speed:3.5GHz,Cores:6,TDP:140W",
+        "Standard_Cost": 399,
+        "List_Price": 564,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 81,
+        "Product_Name": "Intel Xeon E5-2650 V4",
+        "Description": "Speed:2.2GHz,Cores:12,TDP:105W",
+        "Standard_Cost": 945,
+        "List_Price": 1099,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 82,
+        "Product_Name": "Intel Core i7-6950X",
+        "Description": "Speed:3.0GHz,Cores:10,TDP:140W",
+        "Standard_Cost": 1052,
+        "List_Price": 1499,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 83,
+        "Product_Name": "Asus STRIX-GTX1080TI-O11G-GAMING",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.57GHz",
+        "Standard_Cost": 691,
+        "List_Price": 829,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 84,
+        "Product_Name": "Asus X99-DELUXE\/U3.1",
+        "Description": "CPU:LGA2011-3,Form Factor:ATX,RAM Slots:8,Max RAM:64GB",
+        "Standard_Cost": 332,
+        "List_Price": 440,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 85,
+        "Product_Name": "Intel Xeon E5-2660 V3 (OEM\/Tray)",
+        "Description": "Speed:2.6GHz,Cores:10,TDP:105W",
+        "Standard_Cost": 902,
+        "List_Price": 1274,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 86,
+        "Product_Name": "MSI GTX 1080 TI SEA HAWK X",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.57GHz",
+        "Standard_Cost": 691,
+        "List_Price": 804,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 87,
+        "Product_Name": "PNY VCGGTX1080T11XGPB-OC",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.53GHz",
+        "Standard_Cost": 600,
+        "List_Price": 759,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 88,
+        "Product_Name": "Gigabyte GV-N98TWF3OC-6GD",
+        "Description": "Chipset:GeForce GTX 980 Ti,Memory:6GBCore Clock:1.06GHz",
+        "Standard_Cost": 633,
+        "List_Price": 749,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 89,
+        "Product_Name": "PNY VCGGTX780T3XPB-OC",
+        "Description": "Chipset:GeForce GTX 780 Ti,Memory:3GBCore Clock:980MHz",
+        "Standard_Cost": 592,
+        "List_Price": 749,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 90,
+        "Product_Name": "EVGA 11G-P4-6696-KR",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.56GHz",
+        "Standard_Cost": 594,
+        "List_Price": 759,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 91,
+        "Product_Name": "Intel Xeon E5-2695 V2",
+        "Description": "Speed:2.4GHz,Cores:12,TDP:115W",
+        "Standard_Cost": 1793,
+        "List_Price": 2259,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 92,
+        "Product_Name": "Intel Xeon E5-2643 V2 (OEM\/Tray)",
+        "Description": "Speed:3.5GHz,Cores:6,TDP:130W",
+        "Standard_Cost": 1940,
+        "List_Price": 2200,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 93,
+        "Product_Name": "Intel Xeon E5-2690 (OEM\/Tray)",
+        "Description": "Speed:2.9GHz,Cores:8,TDP:135W",
+        "Standard_Cost": 1888,
+        "List_Price": 2116,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 94,
+        "Product_Name": "Western Digital WD2500AVVS",
+        "Description": "Series:AV-GP,Type:5400RPM,Capacity:250GB,Cache:8MB",
+        "Standard_Cost": 12,
+        "List_Price": 15,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 95,
+        "Product_Name": "Western Digital WDS256G1X0C",
+        "Description": "Series:Black PCIe,Type:SSD,Capacity:256GB,Cache:N\/A",
+        "Standard_Cost": 85,
+        "List_Price": 109,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 96,
+        "Product_Name": "SanDisk SDSSDHII-480G-G25",
+        "Description": "Series:Ultra II,Type:SSD,Capacity:480GB,Cache:N\/A",
+        "Standard_Cost": 102,
+        "List_Price": 141,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 97,
+        "Product_Name": "Kingston SV300S37A\/120G",
+        "Description": "Series:SSDNow V300 Series,Type:SSD,Capacity:120GB,Cache:N\/A",
+        "Standard_Cost": 45,
+        "List_Price": 59,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 98,
+        "Product_Name": "Intel Xeon E5-2687W V3",
+        "Description": "Speed:3.1GHz,Cores:10,TDP:160W",
+        "Standard_Cost": 1781,
+        "List_Price": 2064,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 99,
+        "Product_Name": "Seagate ST1000DX002",
+        "Description": "Series:FireCuda,Type:Hybrid,Capacity:1TB,Cache:64MB",
+        "Standard_Cost": 55,
+        "List_Price": 68,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 100,
+        "Product_Name": "Crucial CT275MX300SSD1",
+        "Description": "Series:MX300,Type:SSD,Capacity:275GB,Cache:N\/A",
+        "Standard_Cost": 79,
+        "List_Price": 97,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 101,
+        "Product_Name": "Kingston HyperX Predator",
+        "Description": "Speed:DDR4-3000,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+        "Standard_Cost": 471,
+        "List_Price": 635,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 102,
+        "Product_Name": "Intel Xeon E5-2687W V4",
+        "Description": "Speed:3.0GHz,Cores:12,TDP:160W",
+        "Standard_Cost": 1723,
+        "List_Price": 2042,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 103,
+        "Product_Name": "EVGA 11G-P4-6598-KR",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.56GHz",
+        "Standard_Cost": 663,
+        "List_Price": 809,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 104,
+        "Product_Name": "SanDisk SDSSDA-240G-G26",
+        "Description": "Series:SSD PLUS,Type:SSD,Capacity:240GB,Cache:N\/A",
+        "Standard_Cost": 61,
+        "List_Price": 83,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 105,
+        "Product_Name": "EVGA 12G-P4-3992-KR",
+        "Description": "Chipset:GeForce GTX Titan Z,Memory:12GBCore Clock:732MHz",
+        "Standard_Cost": 2313,
+        "List_Price": 2799,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 106,
+        "Product_Name": "Intel Xeon E5-2640 V2",
+        "Description": "Speed:2.0GHz,Cores:8,TDP:95W",
+        "Standard_Cost": 545,
+        "List_Price": 608,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 107,
+        "Product_Name": "Kingston",
+        "Description": "Speed:DDR3-1600,Type:240-pin DIMM,CAS:11Module:4x16GBSize:64GB",
+        "Standard_Cost": 474,
+        "List_Price": 644,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 108,
+        "Product_Name": "MSI GAMING",
+        "Description": "Chipset:GeForce GTX 780 Ti,Memory:3GBCore Clock:1.02GHz",
+        "Standard_Cost": 753,
+        "List_Price": 849,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 109,
+        "Product_Name": "G.Skill Trident Z",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:14Module:4x16GBSize:64GB",
+        "Standard_Cost": 585,
+        "List_Price": 713,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 110,
+        "Product_Name": "ATI FirePro W9000",
+        "Description": "Chipset:FirePro W9000,Memory:6GBCore Clock:975MHz",
+        "Standard_Cost": 2785,
+        "List_Price": 3192,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 111,
+        "Product_Name": "Intel Core i7-6900K (OEM\/Tray)",
+        "Description": "Speed:3.2GHz,Cores:8,TDP:140W",
+        "Standard_Cost": 620,
+        "List_Price": 827,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 112,
+        "Product_Name": "Corsair Vengeance Pro",
+        "Description": "Speed:DDR3-2133,Type:240-pin DIMM,CAS:11Module:8x8GBSize:64GB",
+        "Standard_Cost": 596,
+        "List_Price": 808,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 113,
+        "Product_Name": "G.Skill Trident Z",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+        "Standard_Cost": 580,
+        "List_Price": 704,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 114,
+        "Product_Name": "Zotac ZT-70203-10P",
+        "Description": "Chipset:GeForce GTX 780,Memory:3GBCore Clock:1.01GHz",
+        "Standard_Cost": 580,
+        "List_Price": 820,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 115,
+        "Product_Name": "Corsair Vengeance LPX",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:15Module:8x8GBSize:64GB",
+        "Standard_Cost": 565,
+        "List_Price": 699,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 116,
+        "Product_Name": "G.Skill Trident Z",
+        "Description": "Speed:DDR4-3400,Type:288-pin DIMM,CAS:16Module:4x16GBSize:64GB",
+        "Standard_Cost": 565,
+        "List_Price": 731,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 117,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:14Module:4x16GBSize:64GB",
+        "Standard_Cost": 617,
+        "List_Price": 695,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 118,
+        "Product_Name": "Corsair Dominator Platinum",
+        "Description": "Speed:DDR4-2800,Type:288-pin DIMM,CAS:15Module:8x8GBSize:64GB",
+        "Standard_Cost": 578,
+        "List_Price": 699,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 119,
+        "Product_Name": "Intel Xeon E5-2640 V3",
+        "Description": "Speed:2.6GHz,Cores:8,TDP:90W",
+        "Standard_Cost": 668,
+        "List_Price": 899,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 120,
+        "Product_Name": "Intel Core 2 Extreme QX9775",
+        "Description": "Speed:3.2GHz,Cores:4,TDP:150W",
+        "Standard_Cost": 737,
+        "List_Price": 892,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 121,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:14Module:8x8GBSize:64GB",
+        "Standard_Cost": 603,
+        "List_Price": 721,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 122,
+        "Product_Name": "G.Skill Trident Z",
+        "Description": "Speed:DDR4-3333,Type:288-pin DIMM,CAS:16Module:4x16GBSize:64GB",
+        "Standard_Cost": 532,
+        "List_Price": 722,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 123,
+        "Product_Name": "ATI FirePro S9150",
+        "Description": "Chipset:FirePro S9150,Memory:16GBCore Clock:900MHz",
+        "Standard_Cost": 2628,
+        "List_Price": 3177,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 124,
+        "Product_Name": "Intel Xeon E5-1650 V4 (OEM\/Tray)",
+        "Description": "Speed:3.6GHz,Cores:6,TDP:140W",
+        "Standard_Cost": 453,
+        "List_Price": 594,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 125,
+        "Product_Name": "G.Skill Trident Z",
+        "Description": "Speed:DDR4-3600,Type:288-pin DIMM,CAS:17Module:4x16GBSize:64GB",
+        "Standard_Cost": 594,
+        "List_Price": 768,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 126,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:16Module:8x8GBSize:64GB",
+        "Standard_Cost": 510,
+        "List_Price": 640,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 127,
+        "Product_Name": "Corsair Dominator Platinum",
+        "Description": "Speed:DDR4-3333,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+        "Standard_Cost": 538,
+        "List_Price": 719,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 128,
+        "Product_Name": "Kingston",
+        "Description": "Speed:DDR4-2133,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+        "Standard_Cost": 650,
+        "List_Price": 741,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 129,
+        "Product_Name": "Corsair Vengeance LPX",
+        "Description": "Speed:DDR4-3333,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+        "Standard_Cost": 609,
+        "List_Price": 734,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 130,
+        "Product_Name": "Western Digital WD2003FZEX",
+        "Description": "Series:BLACK SERIES,Type:7200RPM,Capacity:2TB,Cache:64MB",
+        "Standard_Cost": 91,
+        "List_Price": 117,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 131,
+        "Product_Name": "Samsung MZ-V6P512BW",
+        "Description": "Series:960 PRO,Type:SSD,Capacity:512GB,Cache:512MB",
+        "Standard_Cost": 223,
+        "List_Price": 279,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 132,
+        "Product_Name": "Intel Core i7-5930K",
+        "Description": "Speed:3.5GHz,Cores:6,TDP:140W",
+        "Standard_Cost": 481,
+        "List_Price": 554,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 133,
+        "Product_Name": "PNY VCQP6000-PB",
+        "Description": "Chipset:Quadro P6000,Memory:24GBCore Clock:1.42GHz",
+        "Standard_Cost": 4058,
+        "List_Price": 5499,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 134,
+        "Product_Name": "Asus Sabertooth 990FX",
+        "Description": "CPU:AM3+,Form Factor:ATX,RAM Slots:4,Max RAM:32GB",
+        "Standard_Cost": 252,
+        "List_Price": 295,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 135,
+        "Product_Name": "Samsung MZ-V6E250",
+        "Description": "Series:960 EVO,Type:SSD,Capacity:250GB,Cache:512MB",
+        "Standard_Cost": 92,
+        "List_Price": 127,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 136,
+        "Product_Name": "AMD Opteron 6378",
+        "Description": "Speed:2.4GHz,Cores:16,TDP:115W",
+        "Standard_Cost": 651,
+        "List_Price": 826,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 137,
+        "Product_Name": "Asus Z10PE-D16 WS",
+        "Description": "CPU:LGA2011-3 x 2,Form Factor:SSI EEB,RAM Slots:16,Max RAM:1TB",
+        "Standard_Cost": 332,
+        "List_Price": 469,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 138,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-3000,Type:288-pin DIMM,CAS:14Module:4x16GBSize:64GB",
+        "Standard_Cost": 499,
+        "List_Price": 645,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 139,
+        "Product_Name": "Hitachi HUS724030ALE641",
+        "Description": "Series:Ultrastar 7K4000,Type:7200RPM,Capacity:3TB,Cache:64MB",
+        "Standard_Cost": 54,
+        "List_Price": 65,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 140,
+        "Product_Name": "MSI X99A WORKSTATION",
+        "Description": "CPU:LGA2011-3,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 239,
+        "List_Price": 289,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 141,
+        "Product_Name": "Supermicro X11SSL-CF",
+        "Description": "CPU:LGA1151,Form Factor:Micro ATX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 317,
+        "List_Price": 419,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 142,
+        "Product_Name": "AMD FirePro W9100",
+        "Description": "Chipset:FirePro W9100,Memory:16GBCore Clock:930MHz",
+        "Standard_Cost": 2483,
+        "List_Price": 2998,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 143,
+        "Product_Name": "Asus Z10PE-D16",
+        "Description": "CPU:LGA2011-3 Narrow x 2,Form Factor:SSI EEB,RAM Slots:16,Max RAM:1TB",
+        "Standard_Cost": 293,
+        "List_Price": 402,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 144,
+        "Product_Name": "Intel DG43RK",
+        "Description": "CPU:LGA775,Form Factor:Micro ATX,RAM Slots:4,Max RAM:8GB",
+        "Standard_Cost": 219,
+        "List_Price": 289,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 145,
+        "Product_Name": "Asus VANGUARD B85",
+        "Description": "CPU:LGA1150,Form Factor:Micro ATX,RAM Slots:4,Max RAM:32GB",
+        "Standard_Cost": 258,
+        "List_Price": 287,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 146,
+        "Product_Name": "EVGA Z270 Classified K",
+        "Description": "CPU:LGA1151,Form Factor:EATX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 234,
+        "List_Price": 283,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 147,
+        "Product_Name": "EVGA Classified",
+        "Description": "CPU:LGA2011-3,Form Factor:EATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 240,
+        "List_Price": 283,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 148,
+        "Product_Name": "MSI Z270 XPOWER GAMING TITANIUM",
+        "Description": "CPU:LGA1151,Form Factor:ATX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 212,
+        "List_Price": 282,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 149,
+        "Product_Name": "ASRock X299 Taichi",
+        "Description": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 214,
+        "List_Price": 282,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 150,
+        "Product_Name": "MSI X299 TOMAHAWK ARCTIC",
+        "Description": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 223,
+        "List_Price": 281,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 151,
+        "Product_Name": "Supermicro X10SAT-O",
+        "Description": "CPU:LGA1150,Form Factor:ATX,RAM Slots:4,Max RAM:32GB",
+        "Standard_Cost": 207,
+        "List_Price": 281,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 152,
+        "Product_Name": "Gigabyte X299 AORUS Gaming 3",
+        "Description": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 227,
+        "List_Price": 280,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 153,
+        "Product_Name": "Intel Xeon E5-2650 V2",
+        "Description": "Speed:2.6GHz,Cores:8,TDP:95W",
+        "Standard_Cost": 961,
+        "List_Price": 1249,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 154,
+        "Product_Name": "Intel Xeon E5-2650 V3",
+        "Description": "Speed:2.3GHz,Cores:10,TDP:105W",
+        "Standard_Cost": 906,
+        "List_Price": 1204,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 155,
+        "Product_Name": "Intel Xeon E5-2630 V2",
+        "Description": "Speed:2.6GHz,Cores:6,TDP:80W",
+        "Standard_Cost": 493,
+        "List_Price": 588,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 156,
+        "Product_Name": "Supermicro MBD-X10DRI-O",
+        "Description": "CPU:LGA2011-3 Narrow x 2,Form Factor:EATX,RAM Slots:16,Max RAM:1TB",
+        "Standard_Cost": 291,
+        "List_Price": 394,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 157,
+        "Product_Name": "Asus MAXIMUS IX FORMULA",
+        "Description": "CPU:LGA1151,Form Factor:ATX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 339,
+        "List_Price": 388,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 158,
+        "Product_Name": "Intel Xeon E5-2667 V3 (OEM\/Tray)",
+        "Description": "Speed:3.2GHz,Cores:8,TDP:135W",
+        "Standard_Cost": 1504,
+        "List_Price": 2009,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 159,
+        "Product_Name": "Intel Xeon E5-2690 V4",
+        "Description": "Speed:2.6GHz,Cores:14,TDP:135W",
+        "Standard_Cost": 1499,
+        "List_Price": 1994,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 160,
+        "Product_Name": "Intel Xeon E5-2690 V3",
+        "Description": "Speed:2.6GHz,Cores:12,TDP:135W",
+        "Standard_Cost": 1540,
+        "List_Price": 1908,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 161,
+        "Product_Name": "AMD 100-5056062",
+        "Description": "Chipset:Vega Frontier Edition Liquid,Memory:16GBCore Clock:1.5GHz",
+        "Standard_Cost": 1343,
+        "List_Price": 1499,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 162,
+        "Product_Name": "Intel Xeon E5-2470V2",
+        "Description": "Speed:2.4GHz,Cores:10,TDP:95W",
+        "Standard_Cost": 1671,
+        "List_Price": 1904,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 163,
+        "Product_Name": "Intel Xeon E5-2683 V4",
+        "Description": "Speed:2.1GHz,Cores:16,TDP:120W",
+        "Standard_Cost": 1706,
+        "List_Price": 1899,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 164,
+        "Product_Name": "Intel Xeon E5-2637 V2 (OEM\/Tray)",
+        "Description": "Speed:3.5GHz,Cores:4,TDP:130W",
+        "Standard_Cost": 1323,
+        "List_Price": 1850,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 165,
+        "Product_Name": "Intel Xeon E5-2680",
+        "Description": "Speed:2.7GHz,Cores:8,TDP:130W",
+        "Standard_Cost": 1479,
+        "List_Price": 1666,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 166,
+        "Product_Name": "Intel Xeon E5-2680 V3 (OEM\/Tray)",
+        "Description": "Speed:2.5GHz,Cores:12,TDP:120W",
+        "Standard_Cost": 1166,
+        "List_Price": 1638,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 167,
+        "Product_Name": "Intel Xeon E5-2650L V3 (OEM\/Tray)",
+        "Description": "Speed:1.8GHz,Cores:12,TDP:65W",
+        "Standard_Cost": 779,
+        "List_Price": 1010,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 168,
+        "Product_Name": "Seagate ST31000340NS - FFP",
+        "Description": "Series:Barracuda ES,Type:7200RPM,Capacity:1TB,Cache:32MB",
+        "Standard_Cost": 34,
+        "List_Price": 43,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 169,
+        "Product_Name": "Intel Xeon E5-2683 V4 (OEM\/Tray)",
+        "Description": "Speed:2.1GHz,Cores:16,TDP:120W",
+        "Standard_Cost": 1369,
+        "List_Price": 1844,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 170,
+        "Product_Name": "Asus X99-DELUXE II",
+        "Description": "CPU:LGA2011-3,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 289,
+        "List_Price": 383,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 171,
+        "Product_Name": "ASRock Fatal1ty X299 Professional Gaming i9",
+        "Description": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 287,
+        "List_Price": 382,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 172,
+        "Product_Name": "ASRock EP2C612 WS",
+        "Description": "CPU:LGA2011-3 x 2,Form Factor:SSI EEB,RAM Slots:8,Max RAM:",
+        "Standard_Cost": 308,
+        "List_Price": 358,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 173,
+        "Product_Name": "ASRock Z270 SuperCarrier",
+        "Description": "CPU:LGA1151,Form Factor:ATX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 264,
+        "List_Price": 353,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 174,
+        "Product_Name": "MSI GTX 1080 TI AERO 11G OC",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.51GHz",
+        "Standard_Cost": 715,
+        "List_Price": 798,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 175,
+        "Product_Name": "NVIDIA VCQM4000-PB",
+        "Description": "Chipset:Quadro M4000,Memory:8GBCore Clock:N\/A",
+        "Standard_Cost": 682,
+        "List_Price": 790,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 176,
+        "Product_Name": "Intel Xeon E5-2650 V3 (OEM\/Tray)",
+        "Description": "Speed:2.3GHz,Cores:10,TDP:105W",
+        "Standard_Cost": 799,
+        "List_Price": 939,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 177,
+        "Product_Name": "PNY VCQM5000-PB",
+        "Description": "Chipset:Quadro M5000,Memory:8GBCore Clock:861MHz",
+        "Standard_Cost": 1268,
+        "List_Price": 1759,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 178,
+        "Product_Name": "HP C2J95AT",
+        "Description": "Chipset:Quadro K5000,Memory:4GBCore Clock:706MHz",
+        "Standard_Cost": 1715,
+        "List_Price": 1999,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 179,
+        "Product_Name": "Asus SABERTOOTH X99",
+        "Description": "CPU:LGA2011-3,Form Factor:ATX,RAM Slots:8,Max RAM:64GB",
+        "Standard_Cost": 252,
+        "List_Price": 312,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 180,
+        "Product_Name": "Supermicro MBD-X10DAL-I-O",
+        "Description": "CPU:LGA2011-3 x 2,Form Factor:ATX,RAM Slots:8,Max RAM:512GB",
+        "Standard_Cost": 239,
+        "List_Price": 279,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 181,
+        "Product_Name": "ATI FirePro R5000",
+        "Description": "Chipset:FirePro R5000,Memory:2GBCore Clock:825MHz",
+        "Standard_Cost": 760,
+        "List_Price": 999,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 182,
+        "Product_Name": "PNY VCQK4200-PB",
+        "Description": "Chipset:Quadro K4200,Memory:4GBCore Clock:771MHz",
+        "Standard_Cost": 799,
+        "List_Price": 949,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 183,
+        "Product_Name": "Asus GTX780TI-3GD5",
+        "Description": "Chipset:GeForce GTX 780 Ti,Memory:3GBCore Clock:876MHz",
+        "Standard_Cost": 781,
+        "List_Price": 899,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 184,
+        "Product_Name": "AMD 100-506061",
+        "Description": "Chipset:Vega Frontier Edition,Memory:16GBCore Clock:1.44GHz",
+        "Standard_Cost": 706,
+        "List_Price": 999,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 185,
+        "Product_Name": "MSI GTX 1080 TI LIGHTNING Z",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.61GHz",
+        "Standard_Cost": 688,
+        "List_Price": 873,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 186,
+        "Product_Name": "PNY VCQK5200-PB",
+        "Description": "Chipset:Quadro K5200,Memory:8GBCore Clock:667MHz",
+        "Standard_Cost": 1129,
+        "List_Price": 1449,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 187,
+        "Product_Name": "Asus MAXIMUS VIII EXTREME\/ASSEMBLY",
+        "Description": "CPU:LGA1151,Form Factor:EATX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 253,
+        "List_Price": 353,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 188,
+        "Product_Name": "Asus X99-E WS\/USB 3.1",
+        "Description": "CPU:LGA2011-3,Form Factor:SSI CEB,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 428,
+        "List_Price": 482,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 189,
+        "Product_Name": "Asus X99-E-10G WS",
+        "Description": "CPU:LGA2011-3,Form Factor:SSI CEB,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 582,
+        "List_Price": 649,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 190,
+        "Product_Name": "Supermicro X10SDV-8C-TLN4F",
+        "Description": "CPU:Xeon D-1541,Form Factor:Mini ITX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 664,
+        "List_Price": 948,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 191,
+        "Product_Name": "Asus ROG MAXIMUS IX EXTREME",
+        "Description": "CPU:LGA1151,Form Factor:EATX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 480,
+        "List_Price": 573,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 192,
+        "Product_Name": "Asus Rampage V Edition 10",
+        "Description": "CPU:LGA2011-3,Form Factor:EATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 452,
+        "List_Price": 519,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 193,
+        "Product_Name": "Asus Z10PE-D8 WS",
+        "Description": "CPU:LGA2011-3 x 2,Form Factor:SSI EEB,RAM Slots:8,Max RAM:512GB",
+        "Standard_Cost": 504,
+        "List_Price": 561,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 194,
+        "Product_Name": "MSI X299 GAMING M7 ACK",
+        "Description": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 278,
+        "List_Price": 397,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 195,
+        "Product_Name": "G.Skill Ripjaws 4 Series",
+        "Description": "Speed:DDR4-2400,Type:288-pin DIMM,CAS:14Module:8x16GBSize:128GB",
+        "Standard_Cost": 836,
+        "List_Price": 1055,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 196,
+        "Product_Name": "Corsair Vengeance LPX",
+        "Description": "Speed:DDR4-2133,Type:288-pin DIMM,CAS:15Module:8x16GBSize:128GB",
+        "Standard_Cost": 821,
+        "List_Price": 1099,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 197,
+        "Product_Name": "G.Skill Trident Z RGB",
+        "Description": "Speed:DDR4-3600,Type:288-pin DIMM,CAS:17Module:4x16GBSize:64GB",
+        "Standard_Cost": 622,
+        "List_Price": 799,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 198,
+        "Product_Name": "Intel Core i7-980",
+        "Description": "Speed:3.33GHz,Cores:6,TDP:130W",
+        "Standard_Cost": 563,
+        "List_Price": 699,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 199,
+        "Product_Name": "Intel Xeon E5-2630 V4",
+        "Description": "Speed:2.2GHz,Cores:10,TDP:85W",
+        "Standard_Cost": 528,
+        "List_Price": 647,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 200,
+        "Product_Name": "Intel Core i7-4790K",
+        "Description": "Speed:4.0GHz,Cores:4,TDP:88W",
+        "Standard_Cost": 461,
+        "List_Price": 620,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 201,
+        "Product_Name": "Kingston",
+        "Description": "Speed:DDR3-1600,Type:240-pin DIMM,CAS:11Module:4x8GBSize:32GB",
+        "Standard_Cost": 566,
+        "List_Price": 653,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 202,
+        "Product_Name": "G.Skill Trident Z",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:14Module:4x16GBSize:64GB",
+        "Standard_Cost": 533,
+        "List_Price": 713,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 203,
+        "Product_Name": "Kingston",
+        "Description": "Speed:DDR3-1333,Type:240-pin DIMM,CAS:9Module:4x16GBSize:64GB",
+        "Standard_Cost": 556,
+        "List_Price": 671,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 204,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+        "Standard_Cost": 546,
+        "List_Price": 686,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 205,
+        "Product_Name": "G.Skill Trident X",
+        "Description": "Speed:DDR3-3100,Type:240-pin DIMM,CAS:12Module:2x4GBSize:8GB",
+        "Standard_Cost": 507,
+        "List_Price": 649,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 206,
+        "Product_Name": "PNY VCQM6000-24GB-PB",
+        "Description": "Chipset:Quadro M6000,Memory:24GBCore Clock:988MHz",
+        "Standard_Cost": 3619,
+        "List_Price": 4139,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 207,
+        "Product_Name": "PNY VCQM6000-PB",
+        "Description": "Chipset:Quadro M6000,Memory:12GBCore Clock:988MHz",
+        "Standard_Cost": 2505,
+        "List_Price": 3254,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 208,
+        "Product_Name": "Samsung MZ-V6P2T0BW",
+        "Description": "Series:960 Pro,Type:SSD,Capacity:2TB,Cache:2GB",
+        "Standard_Cost": 840,
+        "List_Price": 1199,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 209,
+        "Product_Name": "Intel Core i7-990X Extreme Edition",
+        "Description": "Speed:3.47GHz,Cores:6,TDP:130W",
+        "Standard_Cost": 1072,
+        "List_Price": 1199,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 210,
+        "Product_Name": "Intel Core i9-7900X",
+        "Description": "Speed:3.3GHz,Cores:10,TDP:140W",
+        "Standard_Cost": 855,
+        "List_Price": 1029,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 211,
+        "Product_Name": "Intel Xeon E5-2650",
+        "Description": "Speed:2.0GHz,Cores:8,TDP:95W",
+        "Standard_Cost": 869,
+        "List_Price": 1064,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 212,
+        "Product_Name": "Intel Xeon E5-2680 V4",
+        "Description": "Speed:2.4GHz,Cores:14,TDP:120W",
+        "Standard_Cost": 1365,
+        "List_Price": 1639,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 213,
+        "Product_Name": "Intel Xeon E5-2643 V3 (OEM\/Tray)",
+        "Description": "Speed:3.4GHz,Cores:6,TDP:135W",
+        "Standard_Cost": 1266,
+        "List_Price": 1469,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 214,
+        "Product_Name": "Intel Core i7-5960X",
+        "Description": "Speed:3.0GHz,Cores:8,TDP:140W",
+        "Standard_Cost": 865,
+        "List_Price": 1009,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 215,
+        "Product_Name": "PNY VCQP4000-PB",
+        "Description": "Chipset:Quadro P4000,Memory:8GBCore Clock:1.23GHz",
+        "Standard_Cost": 724,
+        "List_Price": 829,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 216,
+        "Product_Name": "MSI GTX 1080 TI LIGHTNING X",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.57GHz",
+        "Standard_Cost": 742,
+        "List_Price": 863,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 217,
+        "Product_Name": "ASRock C2750D4I",
+        "Description": "CPU:Atom C2750,Form Factor:Mini ITX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 339,
+        "List_Price": 401,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 218,
+        "Product_Name": "Intel Xeon E5-2660 V4",
+        "Description": "Speed:2.0GHz,Cores:14,TDP:105W",
+        "Standard_Cost": 1194,
+        "List_Price": 1388,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 219,
+        "Product_Name": "Intel Xeon E5-2660 V3",
+        "Description": "Speed:2.6GHz,Cores:10,TDP:105W",
+        "Standard_Cost": 1041,
+        "List_Price": 1299,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 220,
+        "Product_Name": "MSI GeForce GTX 1080 Ti GAMING X 11G",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.57GHz",
+        "Standard_Cost": 666,
+        "List_Price": 759,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 221,
+        "Product_Name": "Zotac ZT-P10810C-10P",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.65GHz",
+        "Standard_Cost": 535,
+        "List_Price": 759,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 222,
+        "Product_Name": "Zotac ZT-P10810G-10P",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.51GHz",
+        "Standard_Cost": 598,
+        "List_Price": 754,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 223,
+        "Product_Name": "MSI GeForce GTX 1080 TI ARMOR 11G OC",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.48GHz",
+        "Standard_Cost": 644,
+        "List_Price": 764,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 224,
+        "Product_Name": "Asus STRIX X299-E GAMING",
+        "Description": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 306,
+        "List_Price": 349,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 225,
+        "Product_Name": "Gigabyte GA-Z270X-Gaming 9",
+        "Description": "CPU:LGA1151,Form Factor:EATX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 380,
+        "List_Price": 503,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 226,
+        "Product_Name": "Asus PRIME X299-A",
+        "Description": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 274,
+        "List_Price": 309,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 227,
+        "Product_Name": "Gigabyte GA-X99-UD5 WIFI",
+        "Description": "CPU:LGA2011-3,Form Factor:EATX,RAM Slots:8,Max RAM:64GB",
+        "Standard_Cost": 217,
+        "List_Price": 305,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 228,
+        "Product_Name": "Intel Xeon E5-2699 V3 (OEM\/Tray)",
+        "Description": "Speed:2.3GHz,Cores:18,TDP:145W",
+        "Standard_Cost": 2867,
+        "List_Price": 3410,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 229,
+        "Product_Name": "Seagate ST10000DM0004",
+        "Description": "Series:BarraCuda Pro,Type:7200RPM,Capacity:10TB,Cache:256MB",
+        "Standard_Cost": 284,
+        "List_Price": 399,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 230,
+        "Product_Name": "ADATA ASU800SS-512GT-C",
+        "Description": "Series:Ultimate SU800,Type:SSD,Capacity:512GB,Cache:N\/A",
+        "Standard_Cost": 113,
+        "List_Price": 136,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 231,
+        "Product_Name": "Samsung MZ-V6E1T0",
+        "Description": "Series:960 EVO,Type:SSD,Capacity:1TB,Cache:1000MB",
+        "Standard_Cost": 358,
+        "List_Price": 449,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 232,
+        "Product_Name": "Western Digital WD1003FZEX",
+        "Description": "Series:BLACK SERIES,Type:7200RPM,Capacity:1TB,Cache:64MB",
+        "Standard_Cost": 61,
+        "List_Price": 70,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 233,
+        "Product_Name": "SanDisk SDSSDA-120G-G26",
+        "Description": "Series:SSD PLUS,Type:SSD,Capacity:120GB,Cache:N\/A",
+        "Standard_Cost": 52,
+        "List_Price": 59,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 234,
+        "Product_Name": "Crucial CT525MX300SSD1",
+        "Description": "Series:MX300,Type:SSD,Capacity:525GB,Cache:N\/A",
+        "Standard_Cost": 135,
+        "List_Price": 150,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 235,
+        "Product_Name": "Hitachi A7K1000-1000",
+        "Description": "Series:Ultrastar,Type:7200RPM,Capacity:1TB,Cache:32MB",
+        "Standard_Cost": 29,
+        "List_Price": 41,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 236,
+        "Product_Name": "MSI GTX 980 Ti Gaming 6G",
+        "Description": "Chipset:GeForce GTX 980 Ti,Memory:6GBCore Clock:1.18GHz",
+        "Standard_Cost": 539,
+        "List_Price": 745,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 237,
+        "Product_Name": "Gigabyte GV-N108TAORUS-11GD",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.59GHz",
+        "Standard_Cost": 605,
+        "List_Price": 744,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 238,
+        "Product_Name": "EVGA 06G-P4-4998-KR",
+        "Description": "Chipset:GeForce GTX 980 Ti,Memory:6GBCore Clock:1.19GHz",
+        "Standard_Cost": 521,
+        "List_Price": 741,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 239,
+        "Product_Name": "MSI GTX 1080 Ti DUKE 11G OC",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.53GHz",
+        "Standard_Cost": 555,
+        "List_Price": 739,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 240,
+        "Product_Name": "Intel Core i7-4960X Extreme Edition",
+        "Description": "Speed:3.6GHz,Cores:6,TDP:130W",
+        "Standard_Cost": 1496,
+        "List_Price": 1805,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 241,
+        "Product_Name": "Intel Xeon E5-2699 V4 (OEM\/Tray)",
+        "Description": "Speed:2.2GHz,Cores:22,TDP:145W",
+        "Standard_Cost": 1535,
+        "List_Price": 1756,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 242,
+        "Product_Name": "Intel Xeon E5-1680 V3 (OEM\/Tray)",
+        "Description": "Speed:3.2GHz,Cores:8,TDP:140W",
+        "Standard_Cost": 1519,
+        "List_Price": 1751,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 243,
+        "Product_Name": "Intel Xeon E5-2643 V4 (OEM\/Tray)",
+        "Description": "Speed:3.4GHz,Cores:6,TDP:135W",
+        "Standard_Cost": 1225,
+        "List_Price": 1708,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 244,
+        "Product_Name": "Crucial",
+        "Description": "Speed:DDR4-2133,Type:288-pin DIMM,CAS:15Module:4x16GBSize:64GB",
+        "Standard_Cost": 1139,
+        "List_Price": 1620,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 245,
+        "Product_Name": "ATI FirePro S9050",
+        "Description": "Chipset:FirePro S9050,Memory:12GBCore Clock:900MHz",
+        "Standard_Cost": 1237,
+        "List_Price": 1699,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 246,
+        "Product_Name": "Gigabyte X299 AORUS Ultra Gaming",
+        "Description": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 287,
+        "List_Price": 343,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 247,
+        "Product_Name": "Asus TUF X299 MARK 1",
+        "Description": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 241,
+        "List_Price": 339,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 248,
+        "Product_Name": "Intel Xeon E5-2697 V3",
+        "Description": "Speed:2.6GHz,Cores:14,TDP:145W",
+        "Standard_Cost": 2326,
+        "List_Price": 2774,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 249,
+        "Product_Name": "Intel Xeon E5-2698 V3 (OEM\/Tray)",
+        "Description": "Speed:2.3GHz,Cores:16,TDP:135W",
+        "Standard_Cost": 2035,
+        "List_Price": 2660,
+        "Category_ID": 1
+    },
+    {
+        "Product_ID": 250,
+        "Product_Name": "Asus Z170-WS",
+        "Description": "CPU:LGA1151,Form Factor:ATX,RAM Slots:4,Max RAM:64GB",
+        "Standard_Cost": 279,
+        "List_Price": 338,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 251,
+        "Product_Name": "MSI X299 GAMING PRO CARBON AC",
+        "Description": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 238,
+        "List_Price": 337,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 252,
+        "Product_Name": "Gigabyte X299 AORUS Gaming 9",
+        "Description": "CPU:LGA2066,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 395,
+        "List_Price": 499,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 253,
+        "Product_Name": "Samsung MZ-V6P1T0BW",
+        "Description": "Series:960 Pro,Type:SSD,Capacity:1TB,Cache:1GB",
+        "Standard_Cost": 466,
+        "List_Price": 579,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 254,
+        "Product_Name": "Samsung MZ-7KE256BW",
+        "Description": "Series:850 Pro Series,Type:SSD,Capacity:256GB,Cache:N\/A",
+        "Standard_Cost": 97,
+        "List_Price": 119,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 255,
+        "Product_Name": "Seagate ST2000DX002",
+        "Description": "Series:FireCuda,Type:Hybrid,Capacity:2TB,Cache:64MB",
+        "Standard_Cost": 64,
+        "List_Price": 90,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 256,
+        "Product_Name": "Western Digital WD5000AACS",
+        "Description": "Series:Caviar Green,Type:5400RPM,Capacity:500GB,Cache:16MB",
+        "Standard_Cost": 20,
+        "List_Price": 26,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 257,
+        "Product_Name": "SanDisk SDSSDHII-240G-G25",
+        "Description": "Series:Ultra II,Type:SSD,Capacity:240GB,Cache:N\/A",
+        "Standard_Cost": 73,
+        "List_Price": 84,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 258,
+        "Product_Name": "PNY SSD7CS1311-120-RB",
+        "Description": "Series:CS1311,Type:SSD,Capacity:120GB,Cache:N\/A",
+        "Standard_Cost": 50,
+        "List_Price": 57,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 259,
+        "Product_Name": "PNY SSD9SC240GMDA-RB",
+        "Description": "Series:XLR8,Type:SSD,Capacity:240GB,Cache:N\/A",
+        "Standard_Cost": 58,
+        "List_Price": 80,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 260,
+        "Product_Name": "Crucial CT1050MX300SSD1",
+        "Description": "Series:MX300,Type:SSD,Capacity:1.1TB,Cache:N\/A",
+        "Standard_Cost": 192,
+        "List_Price": 267,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 261,
+        "Product_Name": "G.Skill TridentZ RGB",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:14Module:8x16GBSize:128GB",
+        "Standard_Cost": 1330,
+        "List_Price": 1504,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 262,
+        "Product_Name": "Corsair Dominator Platinum",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:16Module:8x16GBSize:128GB",
+        "Standard_Cost": 1051,
+        "List_Price": 1449,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 263,
+        "Product_Name": "Western Digital WDS250G1B0B",
+        "Description": "Series:Blue,Type:SSD,Capacity:250GB,Cache:N\/A",
+        "Standard_Cost": 70,
+        "List_Price": 89,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 264,
+        "Product_Name": "Samsung MZ-75E120B\/AM",
+        "Description": "Series:850 EVO-Series,Type:SSD,Capacity:120GB,Cache:N\/A",
+        "Standard_Cost": 74,
+        "List_Price": 88,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 265,
+        "Product_Name": "G.Skill Trident Z",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:14Module:8x16GBSize:128GB",
+        "Standard_Cost": 1163,
+        "List_Price": 1431,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 266,
+        "Product_Name": "G.Skill Trident Z RGB",
+        "Description": "Speed:DDR4-3333,Type:288-pin DIMM,CAS:16Module:8x16GBSize:128GB",
+        "Standard_Cost": 1174,
+        "List_Price": 1418,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 267,
+        "Product_Name": "EVGA 12G-P4-1999-KR",
+        "Description": "Chipset:GeForce GTX Titan X,Memory:12GBCore Clock:1.15GHz",
+        "Standard_Cost": 1328,
+        "List_Price": 1799,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 268,
+        "Product_Name": "Western Digital WD10EZEX",
+        "Description": "Series:Caviar Blue,Type:7200RPM,Capacity:1TB,Cache:64MB",
+        "Standard_Cost": 35,
+        "List_Price": 47,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 269,
+        "Product_Name": "Zotac ZT-P10810D-10P",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.57GHz",
+        "Standard_Cost": 580,
+        "List_Price": 759,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 270,
+        "Product_Name": "Gigabyte GV-N1070WF2OC-8GD",
+        "Description": "Chipset:GeForce GTX 1070,Memory:8GBCore Clock:1.56GHz",
+        "Standard_Cost": 551,
+        "List_Price": 769,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 271,
+        "Product_Name": "MSI X99A GODLIKE GAMING CARBON",
+        "Description": "CPU:LGA2011-3,Form Factor:EATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 415,
+        "List_Price": 549,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 272,
+        "Product_Name": "G.Skill Ripjaws 4 Series",
+        "Description": "Speed:DDR4-2800,Type:288-pin DIMM,CAS:15Module:8x16GBSize:128GB",
+        "Standard_Cost": 834,
+        "List_Price": 1073,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 273,
+        "Product_Name": "Western Digital WD101KRYZ",
+        "Description": "Series:Gold,Type:7200RPM,Capacity:10TB,Cache:256MB",
+        "Standard_Cost": 313,
+        "List_Price": 443,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 274,
+        "Product_Name": "ASRock E3C224D4M-16RE",
+        "Description": "CPU:LGA1150,Form Factor:ATX,RAM Slots:4,Max RAM:32GB",
+        "Standard_Cost": 364,
+        "List_Price": 499,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 275,
+        "Product_Name": "MSI X99A GODLIKE GAMING",
+        "Description": "CPU:LGA2011-3,Form Factor:EATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 302,
+        "List_Price": 399,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 276,
+        "Product_Name": "Corsair Vengeance LPX",
+        "Description": "Speed:DDR4-2666,Type:288-pin DIMM,CAS:15Module:8x16GBSize:128GB",
+        "Standard_Cost": 867,
+        "List_Price": 1163,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 277,
+        "Product_Name": "G.Skill Trident Z",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:14Module:8x8GBSize:64GB",
+        "Standard_Cost": 556,
+        "List_Price": 758,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 278,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-3000,Type:288-pin DIMM,CAS:14Module:8x8GBSize:64GB",
+        "Standard_Cost": 546,
+        "List_Price": 677,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 279,
+        "Product_Name": "G.Skill Ripjaws V Series",
+        "Description": "Speed:DDR4-3000,Type:288-pin DIMM,CAS:14Module:8x16GBSize:128GB",
+        "Standard_Cost": 1139,
+        "List_Price": 1318,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 280,
+        "Product_Name": "Western Digital WDS500G1B0B",
+        "Description": "Series:Blue,Type:SSD,Capacity:500GB,Cache:N\/A",
+        "Standard_Cost": 106,
+        "List_Price": 149,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 281,
+        "Product_Name": "Asus ROG-POSEIDON-GTX1080TI-P11G-GAMING",
+        "Description": "Chipset:GeForce GTX 1080 Ti,Memory:11GBCore Clock:1.62GHz",
+        "Standard_Cost": 696,
+        "List_Price": 864,
+        "Category_ID": 2
+    },
+    {
+        "Product_ID": 282,
+        "Product_Name": "Corsair Dominator Platinum",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:15Module:8x8GBSize:64GB",
+        "Standard_Cost": 700,
+        "List_Price": 804,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 283,
+        "Product_Name": "G.Skill Trident Z",
+        "Description": "Speed:DDR4-3200,Type:288-pin DIMM,CAS:14Module:8x8GBSize:64GB",
+        "Standard_Cost": 647,
+        "List_Price": 760,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 284,
+        "Product_Name": "Kingston SA400S37\/120G",
+        "Description": "Series:A400,Type:SSD,Capacity:120GB,Cache:N\/A",
+        "Standard_Cost": 40,
+        "List_Price": 54,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 285,
+        "Product_Name": "Samsung MZ-75E1T0B\/AM",
+        "Description": "Series:850 EVO-Series,Type:SSD,Capacity:1TB,Cache:N\/A",
+        "Standard_Cost": 260,
+        "List_Price": 339,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 286,
+        "Product_Name": "Samsung MZ-V6E500",
+        "Description": "Series:960 EVO,Type:SSD,Capacity:500GB,Cache:512MB",
+        "Standard_Cost": 209,
+        "List_Price": 234,
+        "Category_ID": 5
+    },
+    {
+        "Product_ID": 287,
+        "Product_Name": "MSI X99A XPOWER GAMING TITANIUM",
+        "Description": "CPU:LGA2011-3,Form Factor:EATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 257,
+        "List_Price": 329,
+        "Category_ID": 4
+    },
+    {
+        "Product_ID": 288,
+        "Product_Name": "Asus ROG STRIX X99 GAMING",
+        "Description": "CPU:LGA2011-3,Form Factor:ATX,RAM Slots:8,Max RAM:128GB",
+        "Standard_Cost": 255,
+        "List_Price": 319,
+        "Category_ID": 4
+    }
+]
